@@ -1,2 +1,3 @@
 # hello-world
-Juste un repository
+
+Ceci est juste un repository pour comprendre le fonctionnement de GitHub.
